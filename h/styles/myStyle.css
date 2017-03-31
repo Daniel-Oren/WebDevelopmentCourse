@@ -1,0 +1,100 @@
+body 
+{
+    direction:rtl;
+    background-color:#EFB4AE;
+      font-family:Tahoma;
+  
+    
+}
+
+h1{
+    font-weight:bold;
+    font-size:30pt;
+    color:#5C446C;
+    margin-top:60px;
+  
+
+ 
+}
+h2{
+    font-weight:bold;
+    font-size:20pt;
+    color:#28326C;
+}
+#container{
+    font-size:14pt;
+     margin: 0 auto;
+     width: 1200px;
+     background-image:url("../images/i&y-(1).jpg");
+     background-repeat:no-repeat;
+     background-position:500PX 60px;
+
+}
+#avoda{
+    border: solid 2px white;
+    width:350px;
+    height:100px;
+    padding:15px;
+    -webkit-border-radius: 30px;
+    border-radius: 30px;
+    
+}
+#askala{
+    border: solid 2px white;
+    width:100px;
+    height:80px;
+    padding:15px;
+    -webkit-border-radius: 30px;
+    border-radius: 30px;
+}
+#tahbiv{
+      border: solid 2px white;
+    width:400px;
+    height:90px;
+    padding:15px;
+    -webkit-border-radius: 30px;
+    border-radius: 30px;
+}
+a{
+   background-image:url("../images/facebook.png");
+   background-repeat:no-repeat;
+   background-size:100px;
+   height:34px;
+   width:34px;
+   float:right;
+   margin-right:30PX;
+   background-position:left;
+}
+a:hover{
+     background-image:url("../images/facebook.png");
+   background-repeat:no-repeat;
+   background-size:100px;
+   height:34px;
+   width:34px;
+   float:right;
+   margin-right:30PX;
+   background-position:center;
+}
+a:active{
+   background-image:url("../images/facebook.png");
+   background-repeat:no-repeat;
+   background-size:100px;
+   height:34px;
+   width:34px;
+   float:right;
+   margin-right:30PX;
+   background-position:center;
+}
+a:visited{
+    background-image:url("../images/facebook.png");
+   background-repeat:no-repeat;
+   background-size:100px;
+   height:34px;
+   width:34px;
+   float:right;
+   margin-right:30PX;
+   background-position:right;
+}
+
+
+   
